@@ -1,3 +1,4 @@
 pandas==2.1.4
 nerodia==0.14.1
 amazoncaptcha==0.5.11
+selenium==4.9.1
